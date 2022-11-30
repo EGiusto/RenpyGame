@@ -233,6 +233,9 @@ Abigail “What should I do?”
 
 #CHOICE !!!!!! Hide what you know. Ask parents. !!!!!!!
 
+
+
+
 #Confront parents scene
 
 Abigail “Yeah actually, I have something I need to talk to you both about.” 
@@ -287,4 +290,165 @@ Game over
 
 return 
 
+
+
+#hide what you know scene
+
+Abigail “Oh yeah sorry, I’m okay, I was just replaying the movie from earlier in my head.” I force a smile on my face.”
+
+Shannon “Oh yes, it was very fun to watch that.”
+
+Abigail “My mom smiles and looks over at my dad.
+
+Shannon “We watched tangled earlier.” 
+
+Jerry “Oh well isn’t that lovely, my two girls spending time together. Maybe we can watch a movie together soon.” 
+
+Abigail “Oh yeah sure dad.” 
+Abigail Luckily they bought it. Now I just have to figure out the truth. 
+Abigail “I am super tired though, I think I’m gonna head to bed early if that’s okay with you.” 
+
+Shannon “Oh sure honey, I know you had a long day.”
+
+Abigail “I stand up from the table and my mom smiles at me.”
+
+Jerry “Goodnight honey, sleep well.” 
+
+Abigail “Thanks, goodnight.” 
+
+Abigail “I quickly make my way upstairs and close my bedroom door behind me. I change into my pajamas and get into my bed. I just need to sleep this off.”
+Abigail “I can’t do anything or find any answers while my parents are home.”
+Abigail “I’ll just have to wait for them to leave again tomorrow.”
+
+Next day 
+
+Abigail “I wake up and act like everything is normal..”
+
+Abigail “I say bye to my dad..”
+#shows saying bye
+
+Abigail “I do my school lessons with my mom..” 
+#show
+
+Abigail “I do my schoolwork in my room alone..”
+#show
+Abigail “My mom asks to spend time with me..” 
+#show
+
+Abigail “We watch another movie..” 
+#show
+
+Abigail “And then she leaves for the grocery store again.”
+#Show
+
+Abigail “I’ve never realized just how repetitive every day is for me until I had my world turn upside down.”
+Abigail “My “parents” are not really my parents. Or at least, I don’t think.”
+Abigail “I still have no idea what the truth is.”
+Abigail “But should I even stay to find out? It could be dangerous if they really aren’t my parents and then I stay long enough for them to find out.”
+Abigail “Who knows what they’d do to me?”
+Abigail “Or maybe they really are my parents and they found me when I went missing?”
+Abigail “I have no idea what to do.”
+
+Choice !!!!! try to find out the truth. Run away. !!!!
+
+
+
+
+#Run away scene 
+
+Abigail “I need to run away.”
+Abigail “Now.”
+Abigail “I have no choice. I have to get out before they find out, before they know that I know.”
+Abigail “They could hurt me, they could.. kill me.”
+Abigail “I decide that I’m just going to pack a bag and run away, I have to get out quickly before my mom comes back from the grocery store, so I just have to go.”
+Abigail “No thinking, no prep. Just leave.”
+Abigail “I quickly pack one outfit besides the one I’m wearing now. Luckily it’s close to being fall currently and I know from my studies that that means it’s not super hot but it’s not cold yet.”
+Abigail “I change into a practical outfit for the weather, jeans, t-shirt, jacket, and sneakers.”
+Abigail “I then go into my parents room and take whatever money I can find. I find about one hundred dollars and decide that that’s enough.”
+Abigail “I can’t think of anything else to pack; I’m doing this so suddenly there’s no time to think of anything else.”
+Abigail “I go to my desk and decide to write a note for my “parents” to find later when they’re looking for me.” 
+
+Dear “mom” and “dad”,
+
+I know the truth. 
+
+I know that I went missing when I was a child. 
+
+I feel betrayed that you would keep that from me, and I don’t feel safe being around you. 
+
+I’m terrified of both of you, terrified of what you’re capable of if you could keep such a big thing a secret from me. 
+
+I don’t trust you anymore. 
+
+Thank you for the life I’ve had so far, but I cannot stay here any longer. 
+
+I wish you both the best of luck. 
+
+Sincerely, Abigail. 
+
+Abigail “I leave the note I wrote on my desk and make my way downstairs.”
+Abigail “My “mom” should be home any minute, so if I’m gonna leave, I need to go now.”
+Abigail “I’m terrified of what the world is outside of this house. But I think I feel safer being outside than I do in this house for any longer.”
+Abigail “I open the front door and look around me.”
+Abigail “Green grass, blue sky, gray concrete. Everything looks.. normal.”
+Abigail “I take a step outside of the door and feel a nice warm breeze.”
+Abigail “This feels.. nice.”
+Abigail “I step fully outside and close the front door behind me.”
+Abigail “Well here goes nothing.”
+Abigail “I step off of my porch and onto the sidewalk slowly. Nothing comes and grabs me, nothing yells at me, nothing sinks me into the ground. I’m.. safe.”
+Abigail “I’m safe!”
+Abigail “This is amazing!”
+Abigail “I start to quickly make my way down the sidewalk, walking fast to try to cover the most ground in the amount of time I have, but also taking everything in as I go.” 
+Abigail “Cars drive by but none honk at me, none crash into me, none look evil.”
+Abigail “I see people across the street walking together, no one looks angry or scary or like they want to kill me. Everyone looks so happy.”
+Abigail “They lied to me.”
+Abigail “I can’t believe they lied to me again. About something so big. Something so important.”
+Abigail “The fact that everything is normal and okay shows me that they probably were the ones who kidnapped me. If they lied to me about this, then they are definitely the ones who are evil.”
+
+——
+#time skip
+
+Abigail “After about two hours of walking tirelessly, I finally see somewhere that isn’t a house that looks exactly like mine. It’s a nice and quiet restaurant, kind of like a diner.”
+Abigail “I go inside and the bell on the door rings as I do.”
+
+Diner Waitress “Welcome to Shammy’s Diner! What can I do for ya?” 
+
+Abigail “The lady behind the counter looks friendly, in a kind of motherly way. She’s in a uniform and has soft blonde hair.”
+Abigail “Can I just stay here for a bit?” 
+Abigail “I’m a little unsure of how being a customer in a restaurant works. I know a lot of different things thanks to my lessons, but nothing taught me how to order my own food.”
+
+Diner Waitress “You want a table? Sure! Follow me.” 
+
+Abigail “The lady grabs a menu and leads me to a booth in the corner.”
+
+Diner Lady “What would you like to drink, sugar?” 
+
+Abigail “Uh, just a water?” 
+
+Diner Lady “You got it! I’ll be right back.” 
+
+Abigail “As the kind lady walks off and makes her way towards the kitchen, I look down at the menu. Cheeseburgers, fries, milkshakes.”
+Abigail “Wow. This place has everything.”
+Abigail “This is awesome!”
+Abigail “The lady brings over my water and asks if I’m ready to order.”
+Abigail “Not quite, can I have more time to look?” 
+
+Diner Lady “Of course sugar! You wave me over when you’re ready, okay?”
+
+Abigail “I nod my head in agreement as she walks away and back towards the kitchen.”
+Abigail “The diner seems to be mostly empty besides a few people, one drinking coffee at the bar and the other two sitting at a booth across the restaurant from me eating cheeseburgers.” 
+Abigail “I think I’ll stay and eat here for now. These people seem very comfy, like they stay here for a long time.”
+Abigail “And this place is open 24 hours so maybe I can stay here and ask some questions, maybe get some answers and be on my way by the morning.”
+Abigail “I smile to myself.”
+Abigail “This is all working out.”
+Abigail “I finally decide on a bacon cheeseburger with French fries when I hear the front door bell go off.”
+Abigail “I look up towards the noise.”
+Abigail “Oh my god.”
+Abigail “No.. no.. no.. no! NO!”
+
+Abigail “Standing at the door, trailing their eyes across the restaurant, is my “parents”.”
+
+#end scene 
+
+#parents find her scene 
 
