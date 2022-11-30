@@ -233,6 +233,58 @@ Abigail “What should I do?”
 
 #CHOICE !!!!!! Hide what you know. Ask parents. !!!!!!!
 
+#Confront parents scene
 
+Abigail “Yeah actually, I have something I need to talk to you both about.” 
+Abigail I put my fork down and look at my parents.” 
+Abigail “They both look at me and give me their full attention.”
+
+Shannon “What is it honey?” 
+
+Abigail “So, I was playing around earlier and I went into your room and into your closet.”
+Abigail “I watch their faces slowly harden from the concerned looks that were previously there.”
+Abigail “When I went in your closet I found a door that led to an attic area, and I found a box with my name on it.” 
+Abigail “My parents look furious at this point. Maybe they’re just really mad because I was snooping around?”
+Abigail “I found a poster with a picture of what I think is me on it, and it said missing.” 
+Abigail “My parents both look at me, and then at each other.”
+
+Jerry “Why were you snooping in our room?” 
+
+Abigail “My dad speaks through gritted teeth.”
+
+Shannon “Now Jerry, it’s okay, our daughter is a curious girl, we should’ve expected this.”
+
+Abigail “My mom speaks in a tone I’ve never heard before; I look at her and notice a smile on her face, almost a smirk.”
+Abigail “She looks and sounds terrifying.”
+
+Shannon “Looks like we need to tell you the truth, huh sweetie?” 
+
+Abigail “My mom and my dad look at each other with an expression I’ve never seen either of them hold.”
+Abigail “Before I have a chance to open my mouth and speak, I’m suddenly being pulled by the both of them.”
+Abigail “I scream and try to make out an expression of my confusion but my father quickly covers my mouth with his hand as they continue to drag me out into the backyard, towards our broken down shed.”
+Abigail “I struggle and try to flail any limb I can as they open the shed door.”
+Abigail “As soon as the door is open they throw me down on the ground of the shed and close the door behind them.”
+Abigail “I look up at them in disbelief, “what-“”
+Abigail “I’m quickly cut off as my dad covers my mouth with a rag tied around my face as my mom ties my hands together.”
+Abigail “I look at them with pure fear as they step away from me.”
+
+Shannon “I was hoping you wouldn’t find out. We were having so much fun.” 
+
+Abigail “My mom smiles at me as she speaks. My dad just stares at me as my mom grabs a bat off of the wall of the shed.”
+Abigail “I scream through the gag and try to scoot my body away from my mother as she walks towards me. My father grabs me and throws me back in the middle of the floor, holding me there.”
+
+Jerry “Sorry honey, you understand. Now that you know the truth, you could get us in trouble, and that just won’t do.” 
+
+Abigail “My mom holds the bat over me as my father speaks.”
+Abigail “How could they? I thought they loved me. I thought they cared about me.”
+
+Shannon “Bye sweetie, it was a pleasure.”
+
+Abigail “My mom smiles as she speaks and swings the bat towards my face.”
+Abigail “Then everything went black…”
+
+Game over 
+
+return 
 
 
