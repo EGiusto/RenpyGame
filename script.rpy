@@ -658,3 +658,183 @@ Abigail “My thoughts run a million times a minute as I lay in my bed and try t
 #end scene 
 
 #research scene 
+
+Abigail “I wake up and sigh. Not only is this going to be just another day exactly like the others, it’s going to be a long day of trying to find answers.”
+Abigail “I get out of bed and get dressed and start the day like any other.”
+Abigail “I say bye to Jerry..”
+#shows saying bye
+Abigail “I do my school lessons with Shannon..” 
+#show
+Abigail “I do my schoolwork in my room alone..” 
+#show
+
+Abigail “Shannon knocks on my door and enters my room, usually about the time where she asks to spend time with me and we watch a movie together.”
+
+Shannon “Hey sweetie, I’m gonna go to the store a little earlier than usual today.” 
+
+Abigail “That’s weird, it’s about 2:00 right now, she usually doesn’t go to the store for another hour or two.”
+Abigail “Oh, okay, any particular reason?” 
+
+Shannon “Nono, no reason, I just felt like going earlier today, thought I’d change it up a bit.” 
+
+Abigail “I can tell she’s taking what I said seriously about our days always being the same, but it doesn’t matter much either way.”
+Abigail “”Okay.” Shannon leaves my room and I hear the front door close.”
+Abigail “I guess her trying to change things up is perfect for me, this gives me more time to find answers.”
+Abigail “I go into their room again and open and unlock Shannon’s computer.”
+Abigail “The fact that my birthday is her login does show that she cares a lot about me, maybe they’re not so bad?”
+Abigail “Either way, I still need answers.”
+Abigail “How should I start? I guess looking up my parents is a good start.” 
+Abigail “I type ‘Maria Robinson’ into the search bar and press enter. Lots of Maria Robinsons pop up. \nUgh.”
+Abigail “I try to get more specific. I type ‘Maria Robinson Nevada kidnapped daughter’ that’s the most specific I can get with what I know.”
+Abigail “After twenty or so minutes of scrolling and searching, I find a Maria Robinson in another article describing the kidnapping of Sofia Robinson.” 
+Abigail “At the bottom of the article, after describing the kidnapping and how the police are searching for her, says “if anyone finds any information on Sofia, the parents have requested that you contact them immediately at 745-334-2211.””
+Abigail “Found it. So now I have their phone number, that’s a good start.”
+Abigail “I write the phone number down onto a sticky note for later and type the number into the search bar, followed by ‘Robinson’ afterwards.”
+Abigail “After more searching and more scrolling, I eventually come across a kind of phone book website, with peoples names, phone numbers and addresses. I type in the phone number and Maria and Daniel Robinson pop up, followed by an address. 34 Freedbird Drive.”
+Abigail “Yes yes yes, this is all coming together.”
+Abigail “I write the address down on the sticky note below the phone number and type the address in the search bar.”
+Abigail “It shows on a map the distance I am from the address. Oh my god! I’m only two hours away from them.”
+Abigail “I could do this.”
+Abigail “I search for different modes of transportation and prices, train, taxi, etc. it seems like the best priced and best way to get there as quick as possible is by taxi, but there are no taxis just driving through my neighborhood, and if I tried to walk to a place that has taxis on foot, my parents would inevitably find me.”
+Abigail “I search for a train schedule and the nearest station. There seems to be a station thirty minutes away from my house, Shamrock Station. After searching the schedule, I find a train that leaves tomorrow at 5:30pm that goes right into the town my parents address is in. The station in their town seems to be about a ten minute walk from their house.”
+Abigail “That’s perfect, I could leave whenever my mom goes shopping again tomorrow, hoping she goes at her normal time. I’m sure I could find a ride, maybe hitchhike, to the train station and leave from there.”
+Abigail “I write down the name and the price of a ticket onto the sticky note.”
+Abigail “It seems like I have all of the information I need; phone number, name, address, train station, destination, and ticket price.”
+Abigail “Now I just need the money for the ticket; the ticket is priced at 40 dollars.”
+Abigail “I search in the drawers in the bedroom and eventually find a couple of bills lying around. I scrounge up all that I could find and count the total; 100 dollars, that’ll be perfect.”
+Abigail “I stand up out of the desk and head to my room where I begin to start packing a bag. I don’t need much, I consider the idea that bringing anything my “parents” gave me could be a bad idea. It could be tracked or even just bring up too many memories.”
+Abigail “I’m still not sure if I’m doing the right thing, these people seem to care about me a lot, but I have to know who my real parents are.”
+Abigail “I take off anything that means too much; my watch and my jewelry are a good start. They gave me a pair of earrings that I’ve never taken off; they claimed that I’ve had them since I was a baby, but now I don’t know if I can trust that either. Even if they are from my real parents, I can’t risk it.”
+Abigail “I take a pair of old clothes and shove them into my backpack. The most I can take with me from them is clothes, I can’t risk them finding me. I find the least unique outfit I can find and set it aside for me to wear tomorrow. The outfit is strictly dull colors and black, whereas I usually wear colorful outfits.”
+Abigail “Everything seems to be just about ready for me to go, all I need to do is write a note to leave behind. I set my backpack inside of my closet and walk over to my desk to begin writing as I hear the front door open.”
+Abigail “She’s home earlier than usual.”
+
+Shannon “Abigail!” 
+
+Abigail “Coming!”
+
+#end scene 
+
+#surpirse scene
+
+Abigail “As I walk downstairs I also see Jerry there. That’s weird, he doesn’t get off of work for another hour or so.”
+
+Shannon “Hi sweetie!” 
+
+Abigail “What’s going on? Why is dad home early?” 
+Abigail “What are they planning? Do they already know I know?”
+
+Shannon “We’re switching up the normal routine! I’m going to make your favorite! Salmon cakes! I also bought a cake for us to have for dessert!”
+
+Abigail “Salmon cakes is a meal she would only make whenever salmon is in season, which it currently isn't, which shows she’s really trying to switch things up a bit, and it is my all time favorite meal. And as far as having a cake, we never have any kind of dessert, ever.”
+Abigail “While they would always pride themselves on being “cool parents”, they always had an issue with dessert, something about rotting your teeth.”
+Abigail “Oh wow!” I try to act excited as I can, “that’s awesome thanks! I’m excited!”” 
+
+Shannon “Here! We can cook together! That’s something different too!” 
+
+Jerry “We just wanted to change up the normal everyday routine with you, like you said, it’s getting a little draining,” 
+
+Shannon “We noticed how upset you were and we wanted to try and cheer you up and make your day a little brighter, we thought changing the routine would help!” 
+
+Abigail “Wow, they really care. They cared enough to listen to what I had to say and do something about it.”
+Abigail “But this change also gets in the way of my plan, if they try and switch it up tomorrow, it could mess up the time I get to the train station.”
+Abigail “But they’re really trying..”
+Abigail “Should I even still try to run away? They really care about me, maybe this is where I belong? They’ve pretty much raised me my entire life anyways, what does blood matter.”
+Abigail “But I also don’t know how dangerous they are, I feel like I barely know them now after finding out the truth. And I want to know who my real parents are.”
+Abigail “What should I do?”
+
+!!!! Choice !!!! still run away or stay with them !!!!
+
+#stay with them choice 
+
+Abigail “These are the people who raised me. They’re people I can trust, they’ve shown me my entire life that they are here for me no matter what.”
+Abigail “So what if they're not my blood parents? They’ve treated me like I am and made me their entire world.”
+Abigail “Running away right now and betraying them would completely break their hearts.” 
+Abigail “Besides, I love the life I’ve had so far, and who’s to say that going to live with my real parents would turn out to be any better.”
+Abigail “These parents have given me an amazing life, I can’t just take that for granted. They’ve done so much for me. I love them.” 
+Abigail “Thanks! I really appreciate you listening to me. The routine is getting tiring some days but it is OUR routine, I couldn’t ask for anything better. I like spending time with you both.”
+
+Shannon “Aww sweetie!” 
+
+Abigail “My mom runs over to me and joins me in the hug with my dad.”
+
+Jerry “How did we get so lucky with such a caring and kind daughter?” 
+
+Shannon “We really won the lottery huh?” 
+
+Abigail “My dad nods as we all giggle and separate.”
+
+Shannon “Now let’s get cooking!” 
+
+Abigail “My mom grabs the groceries and spreads them out onto the counter.”
+Abigail “My dad stands beside my mother as we get started cooking. My dad has never really been a chef but he’s always tried when he needed to, like whenever my mom was sick and couldn’t do it herself. It usually ended up with the food being burnt, but he tried and that was all that mattered.”
+Abigail “My mom and I start cooking as she shows me how to make the salmon cakes. Usually it’s served with spaghetti, and I know how to make that, so once my mom gives me a quick crash course, we divide and conquer. I start making the spaghetti, and she starts making the salmon cakes.”
+Abigail “The entire time, my mom, my dad, and I are all laughing and talking. Now that I’ve taken a moment to appreciate my parents again, I realize just how lucky I really am.” 
+Abigail “My mom expresses to me how proud she is of me and my dad talks about how one day I can work with him as a mechanic. My mom and I both giggle at him as he says that, as we both know the last thing I want to do is get my hands dirty. My dad laughs as we explain this to him, and he explains that we can find another career that better suits my “clean hands” rule.”
+Abigail “We continue to joke like that the entire time we cook until we’re finally finished. We sit down at the table and enjoy our meal cooked to perfection with love. As cliché as that sounds, I now understand why people in movies always say the secret ingredient is love. I’ve never felt more loved than I do now, and this food tastes amazing because of it!”
+Abigail “Once we finally finish eating, my mom brings the cake over to the table. The cake is a chocolate ganache cake and has chocolate covered strawberries on it.”
+Abigail “My mom and I both gush over how delicious it’s going to be, as we both LOVE chocolate cake. My mom cuts us each a piece as we sit and enjoy the dessert together.”
+Abigail “The cake tastes AMAZING!”
+Abigail “And the entire time my family and I continue to talk and joke around and have a good time in each other's company.”
+Abigail “The night comes to a wonderful end as we put the cake away and sit and decide to watch a movie together.”
+Abigail “I sit between my mom and my dad as we put on a family favorite, the Addams family. As the television pulls up the show, I get comfortable between my parents.”
+Abigail “I can’t believe I almost took this for granted. My mom and dad have done an amazing job of raising me, and I couldn’t ask for better parents.”
+Abigail “They really care about me and love me and I’m very grateful for them and the life that I have.”
+Abigail “Nothing makes me happier than growing up with my amazing parents in this amazing house on Shamrock Lane.” 
+
+#end game 
+
+return 
+
+#still run away 
+
+Abigail “These people are not my parents, they are criminals and deserve to be locked behind bars.”
+Abigail “How could they take a young child away from their parents? What sick people can live with themselves after doing that?”
+Abigail “I’m in extreme danger even being in the same house with them, putting on this show for them so they don’t hurt me, or worse.”
+Abigail “I need to get out as fast as I can, I need them to not change the routine, so that way I can make my escape tomorrow.”
+Abigail “I just gotta keep up this mask for a little bit longer.” 
+Abigail “Thanks! The routine is getting tiring some days but it's what I’m used to, I don’t know if I could take something different every day, I’ve grown to like the routine.” 
+
+Shannon “Aw sweetie, don’t worry, we’ll make sure this is a one time thing.” 
+
+Jerry “Yeah don’t worry, we’ll stick to our habitual ways, besides, I can’t afford to leave work early every day.” 
+
+Abigail “Shannon starts laughing along with him and I join in, trying to seem as normal as possible.”
+
+Shannon “That’s very true, now let’s get cooking!” 
+
+Abigail “Jerry stands beside Shannon as I walk over to help cook. Jerry has never really been a chef but he’s always tried when he needed to, like whenever Shannon was sick and couldn’t do it herself. It usually ended up with the food being burnt, which is kind of embarrassing that you can’t take care of yourself or your child by yourself, but that shows he never really had to take care of me anyway.”
+Abigail “Shannon starts cooking and shows me how to make the salmon cakes. I pretend to be listening as she speaks and then goes to her started on the spaghetti while she does the salmon cakes.”
+Abigail “Shannon and Jerry are laughing and talking the entire time while we cook and I try to join in occasionally.”
+Abigail “Shannon starts to talk about how independent I am as she watches me cook. She starts to discuss with Jerry the idea of her getting a job, since, as she said, I'm old enough and responsible enough for me to be home alone while she works. Jerry brought up the idea of a stay at home job and Shannon said she liked the idea, they said they’d discuss it further later and begin job searching.”
+
+Jerry “Maybe one day soon Abigail can get a job of her own too.” 
+
+Abigail “Jerry pats his hand on my back and Shannon smiles and nods as she finishes up cooking.”
+Abigail “Isn’t that a lie. They’d never let me out of this house ever, not even in the backyard to play, there’s no way they’d let me get a job. There’s also no way they’d leave me home alone for days either, they claim they trust me, but they’re just trying to gain my trust.”
+Abigail “They can tell that they’re losing it.”
+Abigail “We finally finished cooking and sat down at the table. Shannon and Jerry continue to talk the entire time while I try to eat the meal as quickly as possible.”
+Abigail “Once we all finish eating, Shannon gets up to grab the cake. The cake is a chocolate ganache cake and has chocolate covered strawberries on it.”
+
+Shannon “Look, it’s our favorite!” 
+
+Abigail ““Oh goodie!” /n I spoke with the fakest excitement I could muster. That felt disgusting.”
+
+Abigail “I slowly eat my piece of cake as I try my best to engage in the stupidly “loving” conversations they’re trying to have. Once we finally finish eating the cake, Shannon suggests we all watch a movie or tv show together.”
+Abigail “I definitely do not want to do that, I can barely handle this act for this amount of time, I can’t take much more of this. I gotta come up with an excuse to leave.” 
+Abigail “Oh mom, I had such a long day today, while you were gone I finished the rest of my homework for the week!” 
+Abigail “The word mom feels like sandpaper on my tongue.”
+
+Shannon “Oh wow sweetie, I really am so proud of you, you’re so responsible with your schoolwork,” 
+
+Jerry “How did we get so lucky with such a great daughter?” 
+
+Abigail “I throw up in my mouth a little as he says that.”
+Abigail “How’d we get so lucky with such a great daughter? You didn’t, you stole her, but alright.”
+Abigail “I fake a smile at them as I head up to my room and get into my bed.”
+Abigail “Ugh, last night in this miserable bed with these miserable people in this miserable house.”
+
+#end scene 
+
+#escape scene 
+
