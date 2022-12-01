@@ -836,5 +836,193 @@ Abigail “Ugh, last night in this miserable bed with these miserable people in 
 
 #end scene 
 
-#escape scene 
+#escape scene final scene 
 
+Abigail “Todays the big day! The day I’ll finally leave the restraints of these psychopaths.”
+Abigail “The day starts like any other day, obviously they took my advice when I said stick to the normal routine.”
+Abigail “I say bye to Jerry..”
+#show
+Abigail “I do my school lessons with shannon..” 
+#show
+Abigail “I do my schoolwork in my room alone..” 
+#show
+Abigail “Shannon asks to spend time with me..”
+#show
+Abigail “We watch another movie..”
+#show
+Abigail “And then she leaves for the grocery store again.” 
+#Show
+
+Abigail “Today I caved in and watched a movie with her, I didn’t wanna tip her off that this would be the last time she’d see me ever again.”
+Abigail “But finally, right on time, she leaves for the grocery store. As soon as she leaves, I change into my dull clothes and begin writing a note.”
+
+Dear Shannon and Jerry, 
+
+I know the truth, I know what you really are. You’re criminals, kidnappers. You took me from my parents when I was a child. 
+
+You’re evil, evil people and I don’t know how you kept this from me for so long, but I know you knew this was coming. 
+
+You couldn’t keep such a huge secret from me for my entire life. 
+
+And now I know. 
+
+I’m leaving and I’m finding my real parents. The people you ripped me away from twelve years ago. 
+
+I hope you both rot in hell for what you did. 
+
+Sincerely, Sofia.
+
+Abigail “It feels so weird signing it with my real name, but it feels right that they know that I’m not the girl that they raised, I’m the girl that my parents gave birth to, and that’s who I’ll be for the rest of my life.”
+Abigail “I’ll never be Shannon and Jerry’s child ever again, not like I ever truly was.”
+Abigail “I grab my backpack and throw it over my shoulders, I also grab the sticky note and shove it into my pocket.”
+Abigail “It’s currently 4:30pm. The first step of my plan is to find someone to drive me to the train station.”
+Abigail “Well technically the first step is to step foot outside of this house, which I’ve never done before ever.”
+Abigail “I walk downstairs and open the front door. I didn’t even stop to consider what the rest of the world may look like. Is it as scary as these people said? Or were they just trying to keep me from escaping? Or keep me inside so no one could ever find the child that went missing?”
+Abigail “I look around outside and everything looks, normal.”
+Abigail “Normal people going on a normal walk with normal faces. No one’s scowling at me, the sky isn’t dark and scary. The sun is actually out and beaming on this gorgeous day.”
+I take my first step outside of the house and onto the sidewalk. 
+Abigail “The sidewalk doesn’t swallow me alive like quicksand, that’s a good first step.”
+Abigail “I close the front door behind me and take in all this new information. The outside is normal, in fact, it’s beautiful. It looks just like all the movies I’ve seen, but better, more realistic.”
+Abigail “This is just like Tangled and I’m rapunzel. I don’t know how I didn’t get the hint when Shannon always watched that movie with me. She was always the evil stepmother, she just had Jerry by her side. They were keeping me from the outside world for their own benefit, so they made me think that the world was a much more dangerous place than it really is. In fact, they’re the true dangerous ones. And I’ve finally escaped.”
+Abigail “I smile and I start to quickly walk away from the house, searching for someone that I can find to drive me to the train station.”
+Abigail “I continue walking for about ten minutes until I see someone getting out of someone else’s car. I watch from afar as the passenger gets out of the back seat and waves thank you to the driver, the driver waves back as he sits there on his phone. The back window of his car says “Uber”, what is that?”
+Abigail “The exchange between those people seemed to be a transactional one, maybe he’ll help me too.”
+Abigail “I run up to the driver’s side of the car and knock on the window. The man rolls down his window and looks at me.
+
+Uber Driver “Can I help you?” 
+
+Abigail “Hi yes, what’s Uber?” 
+
+Uber Driver “It’s an online taxi service, through an app. What era do you live in, the 1900s?” 
+
+Abigail “Oh perfect! Could you give me a ride?” 
+
+Uber Driver “Do you have the app?”
+
+Abigail ““I don’t even have a phone.” \nThe man raises his eyebrow.”
+
+ Uber Driver “Can you pay?”
+
+Abigail “Yes I can!” 
+
+Uber Driver “Alright, get in the back.” 
+
+Abigail “I smile as I open the backseat and get in. I’ve only been in a car once before, when Shannon and Jerry decided to take me out to eat once to celebrate me graduating middle school with honors. Ever since then that’s been a privilege I haven’t been able to earn.”
+Abigail “I get in the seat behind the passenger side and put on my seatbelt.”
+
+Uber Driver “Where do you wanna go and how much do you have, kid?”
+
+Abigail “I need to get to the Shamrock train station please, I have 50 dollars, is that enough?”
+
+Uber Driver “That’ll do.” 
+
+Abigail “He starts the car and begins driving. I look out the window and watch the people and houses pass by as we get farther and farther from the place that has been my prison for almost my entire life.”
+Abigail “This is really happening. I can’t believe this is really happening. I’m really getting out. All thanks to this nice Uber man.”
+
+—— 
+#time skip
+
+Abigail “After about thirty minutes we eventually make it to the train station.”
+
+Uber Driver “We’re here kid, pay up.” 
+
+Abigail “The man speaks and unlocks the doors and holds his hand out.\nI pull the 50 dollars out of my backpack and hand it to him as I get out of the car.”
+Abigail “Thank you mister.” 
+
+Uber Driver “Good luck with wherever you’re going.” 
+
+Abigail “The man speeds away once I close the door. \nI turn around and face the train station behind me. “Shamrock Station” is plastered in big letters above the entrance. Just at the entrance is a bunch of people in line in front of people sitting behind a glass wall. I assume that’s where the tickets are being sold.”
+Abigail “I get into line and check the time, 5:15. The train will be here soon, and no sight of Shannon or Jerry.”
+Abigail “Soon I’m next in line and walk up to the person behind the glass.”
+Abigail ““Hi, a ticket to uh,” I take the sticky note out of my pocket, “to the train station near freebird please.” I never found of the name of the station I was going to, I hope that wasn’t important.”
+
+Ticket Lady “40 dollars please.” 
+
+Abigail “The lady speaks in a monotone. Oh goodie, they didn’t need to know what station, just what area. Awesome! \nI hand the lady my 40 dollars and she hands me back a ticket.”
+Abigail”“Have a nice day,” I say smiling as I walk past the ticket area and into the station. I see train tracks on all sides of me as I look at what my ticket says.”
+Abigail “‘5:30, Freebird’ I guess since my parents house is so close to the train station, their street is named after the area they live in as well as the train station.”
+Abigail “I look around at the signs above me and search for one that says freebird. Eventually I find the train pulling in as it says freebird on the side.”
+Abigail “Oh my gosh! There it is!”
+Abigail “I quickly walk up to the train and give the man my ticket. He motions me onboard and I walk inside the train.”
+Abigail “It’s a very nice and clean train, much like the ones I’ve seen in movies, which I was expecting.”
+Abigail “There are people sitting scattered around everywhere and I eventually find a seat in a corner.”
+Abigail “Once I sit down, the train doors start to close and the train begins to move forward.”
+Abigail “This is really happening!”
+
+—— 
+#time skip 
+
+Abigail “Two hours go by before the train finally comes to a stop.”
+Abigail “The entire ride I couldn’t stop thinking.”
+Abigail “What if they don’t want me anymore? What if they’ve moved on? What if they don’t recognize me? What if they don’t believe me?”
+Abigail “So many doubts, but also, so much excitement.”
+Abigail “I’m going to be with my real parents. I’m going to be able to have a normal life, with normal parents and even make friends. What if I have siblings? They’ll automatically be my friends too.”
+Abigail “As the train doors open, I stand up and put my backpack back onto my back. I step outside and am greeted with a pleasant sunny breeze.”
+Abigail “The last thing I have to do is find a way to my parents house.”
+Abigail “Whenever I found how far their house was from the train station, I studied the route over and over until I finally had it memorized.”
+Abigail “All it is is a five minute walk east to a neighborhood titled “Farway Nest”, then once I’m there, I walk until I see the street sign freebird drive and walk to house 34.”
+Abigail “I’m almost there.”
+Abigail “I begin walking east until I come across the neighborhood. As I walk through the neighborhood, the houses all look unique in their own way, not like my old neighborhood where every house was the exact same. All of these houses seem to have their own level of character to them; a window to the personalities of the people living in them.”
+Abigail “I finally come across the street sign, “Freebird Drive,” here we go!”
+Abigail “I start to pick up my pace as I cross the street and read all the mailbox numbers..”
+Abigail “14..”
+Abigail “20..”
+Abigail “26..”
+Abigail “34!”
+Abigail “I stand on the sidewalk in front of the driveway of the house. The house is a dark brown house with red brick detailing. There’s a lighter brown for the door and the front yard has a beautiful path leading from the driveway to the front door of light red brick, surrounded by white daisies on either side.”
+Abigail “This is it, 34 Freebird Drive.”
+Abigail “This is the moment I’ve been waiting for. It’s time to finally meet my real parents.”
+Abigail “God I hope they like me.”
+Abigail “I walk across the path of brick to the front door. I stand there for a moment, taking a deep breath before I ring the doorbell.” 
+Abigail “I hear the bell ring faintly through the house as I hear shuffling on the other side of the door.”
+Abigail “The front door opens and reveals a pale, tall man standing in front of me. He has full, soft looking dark brown hair with facial hair and hazel eyes that flash an expression of confusion.”
+Abigail “His eyes change from confusion to shock as he looks at me up and down.”
+
+Daniel “Maria!” 
+
+Abigail “He yells and his voice cracks with every syllable. 
+
+Daniel “Get over here!”
+
+Abigail “He continues to stare at me dumbfounded as I just stand there. I hear shuffling as a figure comes up behind him.”
+
+Maria “What is i-“ 
+
+Abigail “The woman has a tan complexion, most likely Hispanic and had curly brown hair. She has a kind, soft face with beautiful blue eyes. She starts to speak as she comes up behind the man before suddenly stopping her sentence short once she sees me.”
+
+Maria “Is that?” 
+
+Abigail “She mutters quietly and looks at me with wide eyes. The man looks at me and whispers quietly.”
+
+Daniel “Sofia?” 
+
+#change main character name to Sofia
+
+Sofia “My eyes start to water as he speaks. My real name has felt so foreign until now, coming out of his mouth, it sounds so perfect. I nod my head quietly as my throat catches and tears begin to run down my face.”
+Sofia “Both adults begin sobbing as they wrap their arms around me tightly in a warm hug.”
+Sofia “We all stand there in each other's company for some time before they pull away.”
+
+Maria “Is it really you?” 
+
+Sofia “The woman, my mother, speaks to me as she strokes my face.”
+Sofia ““Hi,” I say quietly, my voice starts to crack as they both hug me again.”
+
+Daniel “I can’t believe it’s really you, you’re really here. Where have you been?” 
+
+Maria “Oh, that doesn’t matter right now, let’s just enjoy the fact that she’s finally back in our arms. We can get all the details once she’s settled.” 
+
+Sofia “My dad nods as my mother speaks, they both lead me inside, wiping their tears away as they do.”
+Sofia “Eventually the awkwardness floats away and we all begin to catch up. I explain to them how I was kidnapped and how I didn’t know for so long. Their faces flash in shock as I tell them what happened, then to rage.”
+Sofia “My parents call the police and eventually they find and arrest Shannon and Jerry, they get put on trial and sentenced to life in prison, and my case is finally closed twelve years later.”
+Sofia “After my parents and I catch up, I get settled into the house and find my room. Over the course of a couple weeks, I eventually get the power to decorate my room how I want and get all brand new clothes.”
+Sofia “Eventually I’m able to start going to real school and I make some friends along the way, the only good thing from being homeschooled with those dangerous people was that I’m much more ahead of my classmates as far as the curriculum. My parents say it’s just because I’m very smart, and that I get it from my dad.”
+Sofia “After a little while, everything starts to feel normal, but in the most amazing way.”
+Sofia “My parents immediately accepted me and have been looking for me the entire time. They showed me all of their research and open ends that got them nowhere. They never once gave up on me.”
+Sofia “My parents are the kindest, most loving people I think I’ve ever met. My dad is a software engineer and my mom is a teacher, a perfect combination of brains and kindness.”
+Sofia “They never fail to shower me in love every time they see me, they said after losing me once, they’ll never take a second for granted again.”
+Sofia “I don’t think I could be any happier than I am now.”
+Sofia “Now that I’ve finally escaped from that house on Shamrock Lane.”
+
+#end game 
+
+return 
