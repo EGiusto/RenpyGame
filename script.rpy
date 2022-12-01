@@ -452,3 +452,209 @@ Abigail “Standing at the door, trailing their eyes across the restaurant, is m
 
 #parents find her scene 
 
+Abigail “How did they find me?!”
+Abigail “Their eyes finally settle on me as the lady from earlier comes out and greets them.”
+
+Diner Waitress “Hey there! What can I do for you?” 
+
+Jerry “Oh, we were just meeting our daughter.” 
+
+Abigail “My father speaks as they point towards me, an evil expression on their faces.” 
+Abigail “Oh perfect, well you go on over there and call me over when you’re all ready to order.” 
+Abigail “They both smile and nod at the lady as she waves them towards me.”
+Abigail “She obviously can’t see my terrified expression.”
+
+Shannon “Hey sweetie!” 
+
+Abigail “My mom yells as she gets into the booth next to me and puts her arms around me.” 
+
+Jerry “We’re so glad to see you!” 
+
+Abigail “My dad sits across from me and the woman smiles at us as she makes her way back into the kitchen.” 
+Abigail “As soon as she does, my mom gives my dad a nod that she’s gone and she brings a knife to my wrist right below the table.”
+
+Shannon “Now don’t you move a muscle, or I will slice your hand clean off, do you understand?” 
+
+Abigail “My mom whispers in my ear as I stiffen. I nod my head yes as my dad looks at me.” 
+
+Jerry “We knew you’d find out eventually, though, we wished you’d talked to us first. Then we would’ve had a chance to explain everything. And then we would’ve known that we raised you well, raised you to be confident in us and trust us. Obviously we failed.” 
+
+Shannon “Now I knew you were starting to get a little rebellious honey but this is a new level. I never expected this from you, not from how well we raised and treated you.” 
+
+Jerry “Do you think we’re bad parents? We give you everything you’ve ever wanted, gave you a roof over your head, protected you from all evil, fed you. We did it all. And this is how you repay us?” 
+
+Shannon “I thought we had a good relationship the three of us. So what you’re not our birth kid? People adopt all the time. But when we do it it’s a problem?” 
+Abigail “My mom pushes the knife towards my skin. I flinch as she does.”
+
+Jerry “Just because we’re not your real parents doesn’t mean anything. Blood means nothing when we’ve done so much for you and loved you with all of our hearts.” 
+
+Shannon “You really make us out to be the bad guys.” (Mom)
+
+Abigail ““How did you find me?” I stutter quietly and avoid eye contact with the both of them.” 
+
+Jerry “Well, when you were a kid we put a tracker in those earrings you’re wearing. We just told you they were an expensive pair of earrings that you needed to wear forever. We weren’t lying cuz that tracker was very expensive, but it tells us anytime you leave the house. Ya know, haha, I was so shocked when I got the notification on my phone. I was like no way, it had to be a glitch, our little Abigail would never do something like that. Turns out, I was wrong.” 
+
+Abigail “My dad speaks and his evil expression hardens when I bring my hand up to my earrings.”
+
+Shannon “When your dad called me, I couldn’t believe it either. I quickly got home and put the groceries away while your dad made his way home from work early. Luckily that tracker tells us exactly where you are, so once your father got home we both went out to find you. How convenient right!” 
+
+Abigail “My mom beams as she says that last part, smiling at me as the blade slowly draws blood.”
+Abigail “I look down at the table as they speak. I should’ve known they’d have a tracker on me. If they never let me out of their sight normally, I should’ve known they had another way of keeping track of me when they left me alone.”
+Abigail “I should’ve known they didn’t actually trust me.”
+
+Jerry “Right?!”
+
+Abigail “My mom slowly brings the blade deeper into my wrist at my blank response.”
+Abigail “Right!” 
+Abigail “I whimper quietly to get my mom to loosen up with the knife. Luckily she does when I say that.”
+
+Jerry “Well, it’s time we make our way home. We’ve all had a very long day.” 
+
+Abigail “I whimper as my mom grabs me and pulls me up out of the booth. She’s holding the knife to my back now as we wait for my dad to stand up too.”
+
+Shannon “Say a word and this knife will go straight through your back, do you understand?” 
+
+Abigail “My mom grumbles in my ear and I nod my head in agreement.”
+Abigail “I continue my terrified expression as my dad stands up and leads us outside to their car.” 
+Abigail “The lady comes out from the kitchen once the bell rings but it’s too late. She can’t save me now.”
+Abigail “My parents shove me into the back of the car as they get in the front. They lock the doors before I can attempt to get out.”
+Abigail “I sit in the backseat in defeat as my dad starts the car and pulls out of the parking lot of what I thought would’ve been my safe haven.”
+Abigail “I wish I prepared more before I left.”
+Abigail “Then I would’ve thought of my parents having a tracker, found a better way to leave besides walking.”
+Abigail “I made a huge mistake, and it might have just cost me my life.”
+Abigail “I look down at my bleeding wrist as tears run down my cheek. I’m shaking in fear as we continue to drive down dark roads.”
+Abigail “I assume they’re just going to take me home and get rid of me. Take me out and hide all evidence of having me. Considering they have already been able to hide me from the outside for this long, I wonder what else they’re capable of.”
+Abigail “Are they capable of murder?”
+Abigail “Twenty, maybe thirty minutes pass by before my dad stops the car in a pitch black area.”
+Abigail “This isn’t the house.”
+Abigail “I look around outside of the window and see that we’re on a giant hill, at the bottom of the hill is a lake.”
+Abigail “Oh no.”
+Abigail “I start to panic, looking around everywhere, searching for a light, a house, somewhere that I can maybe run to before they can grab me and kill me.”
+
+Jerry “We’re here!” 
+
+Abigail “My dad yells excitedly as he looks at me in the rear view mirror.”
+
+Shannon “Oh look, she looks so excited! Don’t worry sweetie this is gonna be so fun!” 
+
+Abigail “My mom smiles and claps her hands together in excitement. \n Oh my god. They’re insane.”
+
+Jerry “Well, it was nice knowing you honey. I had a great time raising you. Too bad it had to end so soon, but I’m proud to say it was your fault, not ours!” 
+
+Shannon “Abigail you were such a good little girl. We were such great parents too Jerry don’t you worry. These things just happen, teenagers rebel and there’s nothing you can do about it. Oh well, too bad, so sad.” 
+
+Shannon and Jerry “Well.. bye!” 
+
+Abigail “My parents smile at me as they quickly jump out of the car, locking the doors, putting the car in neutral, and taking the key out of the ignition.”
+Abigail “I scream at the top of my lungs as I try to open the doors or unlock them, but with no key the car is off, and my parents keep pressing the lock button on the key so that the doors stay locked.”
+Abigail “I feel my parents push the car as the car quickly makes its way down the hill.”
+Abigail “I scream as the car goes over the hill and crashes into the water.”
+Abigail “I look outside the back window of the car and see both of my parents still standing at the top of the hill, smiling down at me.”
+Abigail “The car quickly starts to sink as I try anything I can to get out of the car before I drown.”
+Abigail “The water fills up the inside of the car as I try to find something to break the windows. Napkins, tissues, gum wrappers. There’s nothing in here I can use.” 
+Abigail “I continue crying and panicking as I start to slam my body against the windows and the doors, trying to unlock the doors or make anything work.”
+Abigail “The water quickly gets all the way up to the top of my face and I’m completely engulfed underwater.”
+Abigail “The water is cold and makes my entire body tense up.”
+Abigail “I continue to struggle and bang on the doors and windows, but it changes nothing.” 
+Abigail “This is it.”
+Abigail “I should’ve never left. Maybe then I would’ve been safe if I just pretended everything was okay and kept going with my life.”
+Abigail “Like they said, they gave me everything.”
+Abigail “Maybe I should’ve been more grateful.” 
+
+Game over.
+
+return 
+
+#find the truth 
+
+Abigail “I need to find out the truth. I need to know what’s really going on before I try and make any sudden decisions.”
+Abigail “In order for me to find out the truth, I need access to the internet.”
+Abigail “So that’s the first step, figuring out how to access the internet without my parents knowing.”
+Abigail “I go into their room again and try to search for an answer, as I look around the room, I spot my mom’s laptop on her desk.”
+Abigail “I don’t know how I’ve never thought to use her laptop, but this is one of the first and only times I’ve felt like snooping around and potentially losing my parents trust. It’s different this time.”
+Abigail “I open up my mom’s computer and sit in her desk chair across from it. It opens up to a login screen, requiring a password.”
+Abigail “There’s no way it would be this easy.”
+Abigail “I put in my birthday and the computer unlocks. \nOkay wow.”
+Abigail “This is too easy. Something's off.”
+Abigail “Why would she leave her laptop here? Did she trust me that much?”
+Abigail “I go to a search engine on her computer and try to think of what I should enter to get my answers.”
+Abigail “I guess the easiest way is to start with my name.”
+Abigail “I type ‘Abigail Cooper’ into the search bar and a bunch of pictures of random women I don’t know pops up with a couple links to instagram and Facebook accounts.”
+Abigail “I guess I have a pretty common name.”
+Abigail “What year was I born? 2005. So that means when I went missing it was 2009?”
+Abigail “I type ‘kidnapping in 2009’ into the search bar and wait for the search to finish loading.”
+Abigail “A couple articles come up with the missing posters attached next to it. I keep scrolling until I come across an article with the poster from my parents attic attached.”
+Abigail “‘4 year old Sofia Robinson goes missing’”
+Abigail “That’s weird. Who is that? And why is my picture attached to her article?”
+Abigail “I click on the link and begin to read.”
+Abigail “‘4 year old Sofia Robinson goes missing in the Nevada area. Mother, Maria Robinson and father, Daniel Robinson were on a walk with their daughter Sofia in the park when they got distracted by a little girl getting injured on the other side of the park. The parents rush to the girls aid, leaving Sofia alone on the playground. Unfortunately for these parents, while they are assisting another child, their daughter disappears. Witnesses say they did not see who might’ve taken Sofia, but say they did see two adults in the children’s park without a child. They described these adults the best they could, the woman was said to have pale white skin, brown hair and a slightly chubby build, looked to be about in her mid 30s. The man was said to also be white with balding hair and an almost overweight build, also said to be in mid 30s. Sofia is a 4 year old girl who is half white and half Mexican; she has grey eyes and very dark, almost black, brown hair. If anyone sees this child or even adults who seem to fit the descriptions of the adults in the south Nevada area, the parents beg that you contact the authorities immediately. The parents state, “Sofia is our everything, we just want her to be safe and happy; we can’t live without our little girl.” The Nevada police  department is working tirelessly to find answers and the detectives are doing all they can to find little Sofia.’”
+Abigail “At the bottom of the article is the missing child poster with my picture.”
+Abigail “As I read the article, my face drops. I have Grey eyes and very dark brown hair. My mom is white and has brown hair. My dad is white and balding. The descriptions of the adults match them. And I match the description for Sofia.”
+Abigail “I’ve always wondered why I look so different from my parents; they’ve always said sometimes that’s just how genetics work.”
+Abigail “I am in complete shock as I try to take in all the information I just read.”
+Abigail “I am Sofia Robinson, my real name is Sofia Robinson. The people I live with now are not my real parents, Maria and Daniel Robinson are my real parents.”
+Abigail “The people I live with now kidnapped me and have kept me all these years.”
+Abigail “The people I live with now are dangerous.”
+Abigail “I have to find a way out.” 
+Abigail “I sit at the desk with my hands on my forehead. Okay I need to calm down, I need to breathe. Now is not the time to freak out, I don’t have time for this. I need to do whatever I can to get out of here without tipping my “parents” off.”
+Abigail “I need to really think this through and get all of the answers that I possibly can.”
+Abigail “I need to find my real parents.” 
+Abigail “I exit out of the article on my mom’s computer and turn it off. As I do, I hear the front door open.”
+
+Shannon “I’m home Abigail!” 
+
+Abigail “It feels so weird hearing HER call me THAT. That’s not my real name, and she knows it.”
+Abigail “But again it would be weird hearing Sofia come out of anyone’s name, I’ve been Abigail for so long.”
+Abigail “Jerry also walks through the door and greets me, most likely just got home at the same time Shannon did, as I make my way down the stairs to greet them.”
+Abigail “I have to act normal. They can’t know I know.”
+
+Jerry “How was your day honey?”
+
+Abigail “Oh it was good, just a lot of school work.” 
+
+Shannon “We’re having meatloaf for dinner.” 
+
+Abigail “Shannon brings herself and the bag of groceries she has to the kitchen and brings prepping for dinner.”
+Abigail “Jerry tries have a conversation with me, but I answer as minimally as I can.”
+
+Jerry “What’s going on honey?” 
+
+Abigail “Jerry flashes me a concerned look.”
+
+Jerry “Are you okay?” 
+
+Abigail “Oh, yeah I’m fine. Just tired. I feel like we do the same thing. every. single. day. I don’t know, I just feel. Stuck.” 
+
+Abigail “I reply trying to give my normal level of conversation so they don’t know that I know. 
+Usually, when they would talk to me, I would fully confess anything and everything that I was feeling; I trusted them like that. We were each others best friends and I could talk to them about anything. Now, now it’s just weird, i don’t know how to feel.”
+Abigail “But I have to act normal, which means confessing some kind of feelings to them so that way they can think that the trust for them is still there. \nMy mom gives me a frown as I speak.”
+
+Shannon “I get that, sometimes life feels like that for me too.”
+
+Jerry “Me too. But it’s okay, we have each other!” 
+
+Abigail “Jerry comes and gives me a hug and then goes over to Shannon and gives her one as well.”
+Abigail “I give a soft smile as he does. Maybe they’re not so bad? It sounds like they care.”
+
+——
+#time skip
+
+Abigail “Time goes by and Shannon finishes dinner. We all eat together and Shannon and Jerry talked the entire time, while I sat there quietly.”
+Abigail “I know I’m showing that somethings wrong, but the excuse I came up with is just good enough for them that my actions and demeanor make sense.”
+
+Shannon “You can go ahead and go upstairs honey, I’ll clean your plate.” 
+
+Abigail” Shannon grabs my plate from me. I’ve been picking at the food and barely had three bites; I couldn’t bring myself to eat too much. I'm so confused, I don’t know if I can trust these people still, I’ve trusted them my entire life, but now it’s different, hell, they could’ve poisoned my food if they knew that I knew the truth.”
+Abigail ““Thank you,” I nod my head and get out of my seat. I make my way upstairs to my room, as I do, I can hear them both talking downstairs, I hope it doesn’t have anything to do with me.”
+Abigail “I change my clothes and get into my bed. Everything feels so weird, there’s no way I’ll be able to sleep tonight.”
+Abigail “All I can think about is my real parents. Who are they?”
+Abigail “Where are they?”
+Abigail “I need to find them. I’m going to do more research tomorrow and see if I can find them and maybe contact them.” 
+Abigail “Maybe they’d help me.”
+Abigail “Or maybe they already moved on with their lives. It has been twelve years since I went missing. What if they had another kid? What if they just pretended I never existed?”
+Abigail “What if they want nothing to do with me?”
+Abigail “My thoughts run a million times a minute as I lay in my bed and try to doze off, at least a little.”
+
+#end scene 
+
+#research scene 
